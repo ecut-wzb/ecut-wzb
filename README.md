@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ecut-wzb
-- 👀 I’m interested in machine learning,data mining,visual image processing
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @ecut-wzb,an undergraduate student from ECUT,majored in computer Science and technology.
+- 👀 I’m interested in Data mining,data processing.
+- 🌱 I’m currently learning Java,Python,Ubuntu and Mysql.
+- 💞️ I’m looking to collaborate on ?
 - 📫 How to reach me 1723782109@qq.com
 
 <!---
